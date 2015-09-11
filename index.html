@@ -1,0 +1,32 @@
+---
+layout: default
+title: Jo Castilho - Graphic Designer
+---
+<div class="jumbotron">
+  <div class="container">
+    <h1>Jo Castilho</h1>
+    <p>Graphic Designer</p>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2 id="portfolio" class="post-title">Portfolio</h2>
+    </div>
+  </div>
+  {% for post in site.posts %}
+  {% capture thecycle %}{% cycle 'first', 'second', 'third' %}{% endcapture %}
+  {% if thecycle == 'first' %}
+    <div class="row">
+  {% endif %}
+    <div class="col-sm-4 portfolio-item">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-link">
+        <img src="http://placehold.it/400x260" alt="{{ post.title }}">
+        <span>{{ post.title }}</span>
+      </a>
+    </div>
+  {% if thecycle == 'third' or forloop.last %}
+    </div>
+  {% endif %}
+  {% endfor %}
+</div>

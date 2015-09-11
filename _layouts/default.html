@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+    <script type="text/javascript" src="{{ "/libs/jquery/jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/libs/bootstrap/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/libs/owlcarousel/owl.carousel.min.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/javascripts/main.js" | prepend: site.baseurl }}"></script>
+  </body>
+</html>

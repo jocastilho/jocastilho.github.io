@@ -1,0 +1,16 @@
+{
+  "name": "jocastilho",
+  "version": "0.0.1",
+  "description": "Personal Website of Jo Castilho",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "owl.carousel": "~2.0.0-beta.3"
+  }
+}
