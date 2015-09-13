@@ -11,7 +11,9 @@ title: Jo Castilho - Graphic Designer
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <h2 id="portfolio" class="post-title">Portfolio</h2>
+      <div class="h1-line">
+        <h1 class="post-title">Portfolio</h1>
+      </div>
     </div>
   </div>
   {% for post in site.posts %}
@@ -21,8 +23,8 @@ title: Jo Castilho - Graphic Designer
   {% endif %}
     <div class="col-sm-4 portfolio-item">
       <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-link">
-        <img src="http://placehold.it/400x260" alt="{{ post.title }}">
-        <span>{{ post.title }}</span>
+        <img src="{{ post.image }}" title="{{ post.title }}" alt="{{ post.title }}">
+        <p>{{ post.title }}</p>
       </a>
     </div>
   {% if thecycle == 'third' or forloop.last %}

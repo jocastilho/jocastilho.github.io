@@ -6,13 +6,15 @@ layout: default
   <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="h1-line h1-extra-margin">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </div>
   </header>
 
   <div id="project-carousel" class="owl-carousel owl-theme">
-    <div><img src="http://placehold.it/1140x400"></div>
-    <div><img src="http://placehold.it/1140x400"></div>
-    <div><img src="http://placehold.it/1140x400"></div>
+    {% for image in page.images %}
+    <div><img src="{{ image.url }}" alt="{{ image.alt }}" title="{{ image.title }}"></div>
+    {% endfor %}
   </div>
 
   <article class="post-content">
