@@ -1,5 +1,8 @@
 @import "../_libs/bootstrap-sass/assets/stylesheets/bootstrap";
 
+/* Variables */
+$jo-peach: #fbdcd4;
+
 /* Sticky Footer */
 html {
   position: relative;
@@ -23,11 +26,17 @@ footer {
 /* Nav */
 .navbar {
   margin-bottom: 0;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300; 
 }
 
 .navbar-default {
   background-color: transparent;
   border-color: transparent;
+
+  .navbar-nav > li > a:hover {
+    color: $jo-peach;
+  }
 }
 
 .navbar-brand {
