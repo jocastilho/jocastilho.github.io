@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 <form class="form-horizontal" action="//formspree.io/me@jocastilho.com" method="POST">
+	<input type="hidden" name="_subject" value="New message on jocastilho.com" />
+	<input type="hidden" name="_next" value="/contact-success" />
   <div class="form-group">
     <!-- <label for="inputName" class="col-sm-2 control-label">Name</label> -->
     <div class="col-sm-offset-2 col-sm-4">
@@ -24,6 +26,7 @@ permalink: /contact/
   </div>
   <div class="form-group">
     <div class="col-sm-offset-2 col-sm-10">
+    	<input type="text" name="_gotcha" style="display:none" />
       <button type="submit" class="btn btn-default">Send</button>
     </div>
   </div>
