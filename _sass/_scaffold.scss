@@ -143,3 +143,24 @@ form {
     border: 1px solid $jo-peach;
   }
 }
+
+/* About */
+.jo-about {
+  text-align: justify;
+  .quote {
+    display: inline-block;
+    padding-bottom: 0.6em;
+    font-family: "Pacifico", sans;
+    font-size: 1.8em;
+    color: $jo-peach;
+  }
+  img {
+    width: 100%;
+    max-width: 555px;
+    padding-bottom: 1.6em;
+  }
+  .jo-about-image {
+    text-align: center;
+  }
+}
+
