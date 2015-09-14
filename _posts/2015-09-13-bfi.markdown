@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "British Film Institute"
+date:   2015-09-13 00:00:00
+categories: project
+image: /images/projects/bfi/bfi-main.jpg
+
+images:
+
+  - url: /images/projects/bfi/bfi-1.jpg
+    alt: BFI Homepage and Collections
+    title: BFI Homepage and Collections
+
+  - url: /images/projects/bfi/bfi-2.jpg
+    alt: BFI Episode Page and Player
+    title: BFI Episode Page and Player
+
+---
+<p>Date: April 2013</p>
+<p>Briefing: To design and implement a video on-demand platform for web and iOS applications.</p>
+<p>Content: Premium and archive video content from the BFI.</p>
+<p></p>
+<p>The pitch was created keeping the same style used on the navigation of the BFI website, with sections devided by 'Recommended films', ' Films to rent', 'Collections', 'Watch now' and 'Last released'.</p>
+<p>The Homepage displays a hero carousel where the user can browse different reccommended content available within the platform. There is a secondary carousel, with more content available within a specific section. Collections page has a secondary dropdown navigation, where all the collections names are displayed. There is a different carousel with a main film and 4 recommended items and more Recommened Collections on a secondary carousel. On the Film Page, there are still two carousels with more content available and a 'Read more' link with an extended synopsis. The Player page allows the used to access more content, with control pannel and a less obvious carousel with more content.</p>
