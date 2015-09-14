@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "UKTV"
+date:   2015-09-13 00:00:00
+categories: project
+image: /images/projects/uktv/uktv-main.jpg
+
+images:
+
+  - url: /images/projects/uktv/uktv-1.jpg
+    alt: UKTV Homepage and Featured Page
+    title: UKTV Homepage and Featured Page
+
+  - url: /images/projects/uktv/uktv-2.jpg
+    alt: UKTV Episode Page and Player with Info Panel
+    title: UKTV Episode Page and Player with Info Panel
+
+---
+<p>Date: June 2014</p>
+<p>Briefing: To design and implement a video on-demand platform for TV.</p>
+<p>Content: On demand content from UKTV channels - Dave, Really and Yesterday.</p>
+<p></p>
+<p>The aim was to create a platform for the UKTV brand, where the user could browse content with three different channels from the broadcaster. Dave - more generic channel; Really - with reality TV shows; Yesterday - was previously knows as UKTV History, broadcasts natural history, science and engineering.</p>
+<p>The Homepage displays a hero carousel where the user can select 3 channles available within the brand. Each channel is identified by it's logo and a branded image. Once on the channel page, a top navigation is available with 'Featured' content, 'A-Z Shows' and 'Last Chance', that can be selected with arrows or by pressing coloured buttons on the remote control. An arrow, indicated the selected section.</p>
+<p>Episode Page, displays series and episode number, episode duration, availability and a 90 characters synopsis., where user can instantly play content by pressing the play button on the remote control. Player page has an info panel overlay with the same content available on the Episode Page and a control panel and timeline with Ad-breaks.</p>
