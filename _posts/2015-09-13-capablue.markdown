@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Capablue"
+date:   2015-09-13 00:00:00
+categories: project
+image: /images/projects/capablue/capablue-main.jpg
+
+images:
+
+  - url: /images/projects/capablue/capablue-1.jpg
+    alt: Capablue Website Homepage
+    title: Capablue Website Homepage
+
+  - url: /images/projects/capablue/capablue-2.jpg
+    alt: Capablue Website Products page
+    title: Capablue Website Products page
+
+  - url: /images/projects/capablue/capablue-3.jpg
+    alt: Capablue Website Services page
+    title: Capablue Website Services page
+
+---
+<p>Date: March 2014</p>
+<p>Briefing: To re-design the existing website, keeping the same content.</p>
+<p></p>
+<p>The top navigation shows the brand logo and navigation tabs - 'Products', 'Services', 'Work', 'News' and 'Contacts'.</p>
+<p>The Homepage displays a background image that refers to the location of the company, London. At the time, the company was located in Waterloo, next to the London Eye. There is an introduction, news section, we are hiring section and events section and more content at the bottom.</p>
+<p>Products Page, has a small generic introduction and a Product name with an icon representing it and a brief description about each product.</p>
+<p>Services Page, has a small generic introduction and a Services name with an icon representing it and a brief description about each service.</p>
