@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Quest"
+date:   2015-09-13 00:00:00
+categories: project
+image: /images/projects/quest/quest-main.jpg
+
+images:
+
+  - url: /images/projects/quest/quest-1.jpg
+    alt: Quest Homepage
+    title: Quest Homepage
+
+  - url: /images/projects/quest/quest-2.jpg
+    alt: Quest A-Z Shows and Last Chance pages
+    title: Quest A-Z Shows and Last Chance pages
+
+  - url: /images/projects/quest/quest-3.jpg
+    alt: Quest Episode Page and Player with Info Panel
+    title: Quest Episode Page and Player with Info Panel
+
+---
+<p>Date: February 2015</p>
+<p>Briefing: The design and implementation of a whitelabel connected operator UI.</p>
+<p>Content: Content available on Quest channel.</p>
+<p></p>
+<p>Operated by Discovery Networks Western Europe, Quest provides factual, lifestyle, entertainment programmes and other imported material </p>
+<p>A rebranding and customisation for television and set-top box manufacturers. The product features an electronic programmes guide, full linear video player and user home displaying applications and catchup services.</p>
+<p>A top navigation is available with 'Home', 'A-Z Shows' and 'Last Chance', that can be selected with arrows on the remote control.</p>
+<p>Episode Page, displays series and episode number, episode duration, availability and a 90 characters synopsis., where user can instantly play content by pressing the play button on the remote control. Player page has an info panel overlay with the same content available on the Episode Page and a control panel and timeline with Ad-breaks.</p>
