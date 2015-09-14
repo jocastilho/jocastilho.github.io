@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Capella"
+date:   2015-09-12 00:00:00
+categories: project
+image: /images/projects/capella/capella-main.jpg
+
+images:
+
+  - url: /images/projects/capella/capella-1.jpg
+    alt: Capella Main Page
+    title: Capella Main Page
+
+  - url: /images/projects/capella/capella-2.jpg
+    alt: Capella Error Page
+    title: Capella Error Page
+
+  - url: /images/projects/capella/capella-3.jpg
+    alt: Capella All Devices
+    title: Capella All Devices
+
+---
+<p>Date: July 2015</p>
+<p>Briefing: To design and implement a white-label video on-demand platform for web and mobile devices.</p>
+<p></p>
+<p>An on­going programme within Arqiva has been to deliver linear and on­-demand video content to a wide ­range of connected devices whilst integrating digital­ rights management, advertising and analytics. Extending the iPlayer technology used by the BBC the team as been able to deliver video content on to a wide­range of devices.</p>
+<p>Main page with hero content, would display the current program from the selected channel, the header was branded depending on clients requirements. Up to 4 channels could be displayed with content sorted by 'Now' - current content to be highlighted with brands main colour - 'Next' and 'Later'. An overlay panel with relevant information would be displayed with a different colour, it could be an error, warning or just a dialogue text with action butons.</p>
