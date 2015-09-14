@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Flexson"
+date:   2015-09-13 00:00:00
+categories: project
+image: /images/projects/flexson/flexson-main.jpg
+
+images:
+
+  - url: /images/projects/flexson/flexson-1.jpg
+    alt: Flexson Rudder Cards
+    title: Flexson Rudder Cards
+
+  - url: /images/projects/flexson/flexson-2.jpg
+    alt: Flexson E-Shots
+    title: Flexson E-Shots
+
+  - url: /images/projects/flexson/flexson-3.jpg
+    alt: Flexson Packaging Leaflet
+    title: Flexson Packaging Leaflet
+
+  - url: /images/projects/flexson/flexson-4.jpg
+    alt: Flexson Main Brochure
+    title: Flexson Main Brochure
+
+---
+<p>Date: Since February 2015</p>
+<p>Brand: Flexson specialises in accessories for SONOS, from wall mounts and floorstands to ColourPlay colour skins and a range of Custom Install (CI) solutions.
+Based in London, England and its products are available globally via a range of top distributors.</p>
+<p>A4 Rudder Cards to promote wall mounts, floors and desk stands.</p>
+<p>E-Shots sent monthly to promote new product releases, promotions and conference dates.</p>
+<p>Small leaflet, to be included in each Flexson packaging.</p>
+<p>Brand main brochure with all products sprecifications and descriptions.</p>
