@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Tech TV"
+date:   2015-09-12 00:00:00
+categories: project
+image: /images/projects/techtv/techtv-main.jpg
+
+images:
+
+  - url: /images/projects/techtv/techtv-1.jpg
+    alt: Tech TV Homepage
+    title: Tech TV Homepage
+
+  - url: /images/projects/techtv/techtv-2.jpg
+    alt: Tech TV Package Selection Page
+    title: Tech TV Package Selection Page
+
+  - url: /images/projects/techtv/techtv-3.jpg
+    alt: Tech TV Login Details Page
+    title: Tech TV Login Details Page
+
+  - url: /images/projects/techtv/techtv-4.jpg
+    alt: Tech TV Account Page
+    title: Tech TV Account Page
+
+---
+<p>Date: May 2014</p>
+<p>Briefing: The design and implementation of a whitelabel commerce platform was required for customisation and rebranding for client projects. The platform enables television broadcasters to receive payment for subscription content.</p>
+<p></p>
+<p>As part of the front end solution the team developed responsive single ­page applications for customers and service ­agents. Their implementation included user authentication and subscription management and sophisticated multi­page form entry for setting­ up subscriptions.</p>
+<p>The header could be branded according to clients requirements and brand guide lines.</p>
+<p>The Homepage had subscription areas to input details to subscribe to service 
+or login for previous subscribers and there was also a login area at the top right corner. The hero image, could be branded depending on channels brand guidelines or content requirements. Package Selection Page had a 'step-by-step' guide with section location and highlight. Each section had the name and description of content available on each package and a info button with 
+dropdown content. There was a Login page with input areas for clients details. And an Account page, with three dropdown menus for 'Personal' and 'Subscription Details' and 'Devices Management', with ability to add or remove up to three devices per package.</p>
+
