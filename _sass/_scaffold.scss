@@ -117,6 +117,17 @@ h1 {
   text-decoration: none;
 }
 
+/* Posts */
+.post-footer a {
+  color: #000;
+}
+
+.post-footer a:hover,
+.post-footer a:focus {
+  color: $jo-peach;
+  text-decoration: none;
+}
+
 /* Form */
 form {
   font-family: "Work Sans", sans-serif;

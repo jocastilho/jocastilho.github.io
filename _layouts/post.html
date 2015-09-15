@@ -21,6 +21,19 @@ layout: default
     {{ content }}
   </article>
 
+  <div class="row post-footer">
+    <div class="col-xs-6 text-left">
+      {% if page.next %}
+      <a href="{{ page.next.url }}">&lt; {{ page.next.title }}</a>
+      {% endif %}
+    </div>
+    <div class="col-xs-6 text-right">
+      {% if page.previous %}
+      <a href="{{ page.previous.url }}">{{ page.previous.title }} &gt;</a>
+      {% endif %}
+    </div>
+  </div>
+
 </div>
 
 </div>
