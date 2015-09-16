@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Branding"
+date:   2015-09-13 00:00:00
+categories: project
+image: /images/projects/branding/branding-main.jpg
+
+images:
+
+  - url: /images/projects/branding/branding-0.jpg
+    alt: Jo Logo
+    title: Jo Logo
+
+  - url: /images/projects/branding/branding-1.jpg
+    alt: VodLogic logo
+    title: VodLogic logo
+
+  - url: /images/projects/branding/branding-2.jpg
+    alt: UKTV Episode Page and Player with Info Panel
+    title: UKTV Episode Page and Player with Info Panel
+
+  - url: /images/projects/branding/branding-3.jpg
+    alt: UKTV Episode Page and Player with Info Panel
+    title: UKTV Episode Page and Player with Info Panel
+
+  - url: /images/projects/branding/branding-4.jpg
+    alt: UKTV Episode Page and Player with Info Panel
+    title: UKTV Episode Page and Player with Info Panel
+
+  - url: /images/projects/branding/branding-5.jpg
+    alt: UKTV Episode Page and Player with Info Panel
+    title: UKTV Episode Page and Player with Info Panel
+
+  - url: /images/projects/branding/branding-6.jpg
+    alt: UKTV Episode Page and Player with Info Panel
+    title: UKTV Episode Page and Player with Info Panel
+
+---
+<p>Logos & Typography</p>
+<p>A brief display of some brands that I've created, some where used and some others were just a pitch or a sketch on ideas for many clients.</p>
+<p></p>
+<p>Jo - My own brand. Logo was created from my nick-name 'Jo', short for 'Joana'. The idea was to use the infinity symbol, as I do believe that creativity and a Designer's work is always a "work in progress" and also because the symbol itself, means perfection. I've played around and mixed it with letters to create my name.</p>
+<p>VodLogic - Client is a specialist in broadcast metadata ingest and delivery for world class VOD and OTT platforms. It's only demands where to make a bold logo, mainly in blue and with the words 'VOD' and 'Logic' on it.</p>
+<p>Buscas - First stage logo to the 'Buscas' project. The idea was to show the location icon, in movement and coliding on the same point, like it was moving, as this was a coach service, to transport people on a city route.</p>
+<p>Plano Nacional de Bicicleta - Logo made to promote the use of bycicles and all non-pluttable transport means, like skatebords or roller-skates, to help save the environment, hence the use of the colour green and the different shades, showing how the enviromnment can also change it colour depending on how people behave.</p>
+<p>Ed & Elie's - A logo made for a florist shop, with high contrast between gold and burgundy.</p>
+<p>Em Pessoa - Logo made to represent Fernando Pessoa, a Portuguese writer and a Portuguese company in Brazil that wanted to use him as a reference.</p>
+<p>Casa da Areia Branca - An apartment complex near the bear where the letters represent that moment when people write something on the sand and the sea waves delete it.</p>
+<p></p>
