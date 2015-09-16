@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Adverts"
+date:   2015-09-13 00:00:00
+categories: project
+image: /images/projects/print/print-main.jpg
+
+images:
+
+  - url: /images/projects/print/print-1.jpg
+    alt: Parrot BeBop drone
+    title: Parrot BeBop drone
+
+  - url: /images/projects/print/print-2.jpg
+    alt: Astell & Kern AK240 Player
+    title: Astell & Kern AK240 Player
+
+  - url: /images/projects/print/print-3.jpg
+    alt: Astell & Kern AK550N Player
+    title: Astell & Kern AK550N Player
+
+  - url: /images/projects/print/print-4.jpg
+    alt: B&O Collection - Half Page
+    title: B&O Collection - Half Page
+
+  - url: /images/projects/print/print-5.jpg
+    alt: B&O Collection - Christmas Promo - Half Page
+    title: B&O Collection - Christmas Promo - Half Page
+---
+<p>Magazine Ads</p>
+<p>Parrot - BeBop Drone - for T3 Magazine</p>
+<p>Astell & Kern - AK240 Music Player - for Hi-Fi News</p>
+<p>Astell & Kern - AK550N Music Player - for Hi-Fi News</p>
+<p>B&O - Full B&O Play Collection - for James Morrow</p>
+<p>B&O - Full B&O Play Collection with Christmas Offer - for Vickers Hi-Fi</p>
+<p></p>
