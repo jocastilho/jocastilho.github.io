@@ -8,20 +8,20 @@ image: /images/projects/vinylplay/vinylplay-main.jpg
 images:
 
   - url: /images/projects/vinylplay/vinylplay-1.jpg
-    alt: UKTV Homepage and Featured Page
-    title: UKTV Homepage and Featured Page
+    alt: Vinylplay Rudder Card
+    title: Vinylplay Rudder Card
 
   - url: /images/projects/vinylplay/vinylplay-2.jpg
-    alt: UKTV Episode Page and Player with Info Panel
-    title: UKTV Episode Page and Player with Info Panel
+    alt: Vinylplay Digital Banner
+    title: Vinylplay Digial Banner
 
   - url: /images/projects/vinylplay/vinylplay-3.jpg
-    alt: UKTV Homepage and Featured Page
-    title: UKTV Homepage and Featured Page
+    alt: Vinylplay Platter
+    title: Vinylplay Platter
 
   - url: /images/projects/vinylplay/vinylplay-4.jpg
-    alt: UKTV Episode Page and Player with Info Panel
-    title: UKTV Episode Page and Player with Info Panel
+    alt: Vinylplay Brochure
+    title: Vinylplay Brochure
 
 ---
 <p>Date: March to July 2015</p>
