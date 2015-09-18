@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Forum Antrop"
+date:   2015-09-11 00:00:00
+categories: project
+image: /images/projects/forum/forum-main.jpg
+
+images:
+
+  - url: /images/projects/forum/forum-1.jpg
+    alt: Forum Antrop Ad
+    title: Forum Antrop Ad
+
+  - url: /images/projects/forum/forum-2.jpg
+    alt: Forum Invite
+    title: Forum Invite
+
+  - url: /images/projects/forum/forum-3.jpg
+    alt: Forum A4 Writing Paper
+    title: Forum A4 Writing Paper
+
+  - url: /images/projects/forum/forum-4.jpg
+    alt: Forum A4 Application and RSVP forms
+    title: Forum A4 Application and RSVP forms
+
+  - url: /images/projects/forum/forum-5.jpg
+    alt: Forum Programme
+    title: Forum Programme
+
+  - url: /images/projects/forum/forum-6.jpg
+    alt: Forum Hotel booking details and prices
+    title: Forum Hotel booking details and prices
+
+---
+<p>2009</p>
+<p>Briefing: A conference made by Antrop, which is a national association to public transporters. 
+They wanted to promote and talk about the usability of public transports, how they are organised and how contracts work within public transportation. I made all the collateral to the conference, such as logo, stationary, advertisement and page layouts.</p>
+<p></p>
+<p>Magazine Ad - This ad was made for a worldwide selling transport magazine.</p>
+<p>Conference Invitation - Front and back with details.</p>
+<p>A4 Writing Paper.</p>
+<p>A4 Application and RSVP forms.</p>
+<p>A4 Programme - With details about the conference and speeches.</p>
+<p>Hotel booking details and prices.</p>
+<p></p>
