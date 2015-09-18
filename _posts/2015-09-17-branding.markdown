@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Branding"
-date:   2015-09-13 00:00:00
+date:   2015-09-17 00:00:00
 categories: project
 image: /images/projects/branding/branding-main.jpg
 
