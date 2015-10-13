@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Buscas"
+date:   2015-09-09 00:00:00
+categories: project
+image: /images/projects/buscas/buscas-main.jpg
+
+images:
+
+  - url: /images/projects/buscas/buscas-1.jpg
+    alt: Buscas Logo
+    title: Buscas Logo
+
+  - url: /images/projects/buscas/buscas-2.jpg
+    alt: Buscas Leaflet
+    title: Buscas Leaflet
+
+  - url: /images/projects/buscas/buscas-3.jpg
+    alt: Buscas Leaflet Small
+    title: Buscas Leaflet Small
+
+  - url: /images/projects/buscas/buscas-4.jpg
+    alt: Buscas Coach Decoration
+    title: Buscas Coach Decoration
+
+---
+<p>2011</p>
+<p>Briefing: The client requested a new image concept to their service. All the rebranding was about a simple and modern logo, that represented movement, passion and the village, Cascais. This is a village mainly known by its monuments and good fish and fishermens life. 
+The logo represents that passion with heart shaped arrows, layered on top of each other, making a sort of fish scales pattern.
+Based on the the old shape of the brand (a rounded arrow), I decided to keep the arrow, giving it a different color and movement. </p>
+<p></p>
+<p>Logo - Company name with image and signature.</p>
+<p>Leaflet - Promotional flyer (front and back), with information about the service, bus route, schedule and price.</p>
+<p>Leaflet - Schedule showing the bus route and stops.</p>
+<p>Coach - Bus decoration made with vinyl.</p>
