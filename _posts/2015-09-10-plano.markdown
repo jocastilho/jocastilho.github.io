@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "National Bike Plan"
+date:   2015-09-10 00:00:00
+categories: project
+image: /images/projects/plano/plano-main.jpg
+
+images:
+
+  - url: /images/projects/plano/plano-1.jpg
+    alt: Plan Logo
+    title: Plan Logo
+
+  - url: /images/projects/plano/plano-2.jpg
+    alt: Plan Business Card
+    title: Plan Business Card
+
+  - url: /images/projects/plano/plano-3.jpg
+    alt: Plan Envelope
+    title: Plan Envelope
+
+  - url: /images/projects/plano/plano-4.jpg
+    alt: Plan A4 Writing Paper
+    title: Plan A4 Writing Paper
+
+  - url: /images/projects/plano/plano-5.jpg
+    alt: Plan A4 Document Folder
+    title: Plan A4 Document Folder
+
+---
+<p>2010</p>
+<p>Briefing: This was a contest made by government called "Plano Nacional de Promoção da Bicicleta e outros Modos de Transporte Suaves" - National Plan for the promotion of cycling and other soft transport modes - which include rollerblades, skates, bicycles, seen as an added value, economic social and environmental, as real alternative to the automobile.
+The purpose of this work was to create a brand - a logo - to promote the so called "soft modes", cycling and walking as an alternative to polluting vehicles.
+The graphics were supposed to be applied into many platforms, such as business cards, envelopes, folders, powerpoint templates and a website.</p>
+<p></p>
+<p>Logo - Made with colours that represent the environment with green circles and the passion for healthier options with the use of pink.</p>
+<p>Business Card - With plan logo and client's details.</p>
+<p>Envelope Layout.</p>
+<p>A4 Writing Paper.</p>
+<p>A4 folder with plan logo to contain conference documentation.</p>
+<p></p>
