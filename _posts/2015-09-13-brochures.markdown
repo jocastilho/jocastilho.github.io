@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brochures"
-date:   2015-09-16 00:00:00
+date:   2015-09-13 00:00:00
 categories: project
 image: /images/projects/brochures/brochures-main.jpg
 

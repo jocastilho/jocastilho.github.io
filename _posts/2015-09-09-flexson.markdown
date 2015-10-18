@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flexson"
-date:   2015-09-14 00:00:00
+date:   2015-09-09 00:00:00
 categories: project
 image: /images/projects/flexson/flexson-main.jpg
 
