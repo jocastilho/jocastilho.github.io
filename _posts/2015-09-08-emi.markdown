@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "EMI"
+date:   2015-09-08 00:00:00
+categories: project
+image: /images/projects/emi/emi-main.jpg
+
+images:
+
+  - url: /images/projects/emi/emi-1.jpg
+    alt: EMI Home and News
+    title: EMI Home and News
+
+  - url: /images/projects/emi/emi-2.jpg
+    alt: EMI Search and Results
+    title: EMI Search and Results
+
+  - url: /images/projects/emi/emi-3.jpg
+    alt: EMI Favourites and Piano
+    title: EMI Favourites and Piano
+
+---
+<p>2013</p>
+<p>Briefing: A dedicated app for Now That's What I Call Music brand, to be available on Samsung Smart TV's and the Smart TV Store.</p>
+<p>The feeling of the app should reflect the brand, with vibrant colours and bright highlights, as per the CD covers that the public is familiar with. The user has the freedom to chose what content to watch, by making a playlists, by genres or decades or adding videos to Favourites, with a range of videos provided by Vevo. To know more about the app, go <a href="http://www.musicweek.com/news/read/now-app-made-available-on-samsung-smart-tv/056507" target="_blank">here.</a></p>
+<p></p>
+<p>Home - The top carousel offers the user the UK Top 20 chart to be played instantly, by pressing play on the first item of the carousel. The secondary carousel, offers the latest highlights, could be a playlist, an interview or top songs.</p>
+<p>News - By pressing the red button on the TV remote, the user has access to the latest news in the music world, or a suggested playlist.</p>
+<p>Search - By pressing the yellow button on the TV remote the user could filter songs by genres and can select as many as he wants, then a playlist is generated according to the selection made previously.</p>
+<p>Favourites - By pressing the green button on the TV remote, the user has acces to the favourites page, where his favourite songs would have been previously added. All the content available in this section could be played at once or song by song. The user can also manage this area by adding and deleting as much content as he wants.</p>
+<p>Piano - By pressing the blue button on the TV remote, the user can create a playlist, by selecting decades and then select a genre/theme or Disney. The playlist result, depends on the selections made previously.</p>
